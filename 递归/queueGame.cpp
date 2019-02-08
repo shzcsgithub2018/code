@@ -1,3 +1,8 @@
+/*
+*Source：http://pkuic.openjudge.cn/dg1/4/
+*Auther：Shz
+*Data  : February 8, 2019
+*/
 #include<iostream>
 
 using namespace std;
