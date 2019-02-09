@@ -1,7 +1,7 @@
 /*
-*Source：http://pkuic.openjudge.cn/dg1/5/
-*Auther：Shz
-*Data  : February 8, 2019  
+**Source：http://pkuic.openjudge.cn/dg1/5/
+**Auther：Shz
+**Data  : February 8, 2019  
 */
 #include<iostream>
 #include<algorithm>
