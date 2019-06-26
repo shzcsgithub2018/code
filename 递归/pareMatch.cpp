@@ -1,7 +1,7 @@
 /*
 **Source：http://pkuic.openjudge.cn/dg2/1/
 **Auther：Shz
-**Data  : February 8, 2019
+**Data  : February 9, 2019
 */
 #include<iostream>
 #include<cstring>
@@ -28,7 +28,6 @@ int pare_match(int n, int lp_count) {
 }
 
 int main() {
-    
     int len;
 
     while(cin >> str) {
